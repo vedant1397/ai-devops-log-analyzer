@@ -1,0 +1,9 @@
+2026-10-06 10:00:01 INFO Application started successfully
+2026-10-06 10:00:05 INFO User authentication successful
+2026-10-06 10:01:12 WARNING High memory usage detected
+2026-10-06 10:02:31 ERROR Database connection failed
+2026-10-06 10:02:32 ERROR Database retry attempt 1
+2026-10-06 10:02:34 ERROR Database retry attempt 2
+2026-10-06 10:02:36 CRITICAL Database service unavailable
+2026-10-06 10:03:01 WARNING Request timeout detected
+2026-10-06 10:03:05 INFO Application continuing with limited functionality
